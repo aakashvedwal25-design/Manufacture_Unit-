@@ -110,7 +110,8 @@ Allows seamless filtering, real-time updates, and visual storytelling for decisi
 | Excel Dashboard | Power BI Dashboard | Tableau Dashboard |
 |-----------------|--------------------|-------------------|
 | ![Excel Dashboard](https://github.com/aakashvedwal25-design/Manufacture_Unit-/blob/main/Excel_dashboard%20mfg.png) |
-![Power BI Dashboard]() | ![Tableau Dashboard](images/tableau_dashboard.png) |
+![Power BI Dashboard](https://github.com/aakashvedwal25-design/Manufacture_Unit-/blob/main/Power_BI%20Dashboard%20mfg.png) |
+![Tableau Dashboard]() |
  
 
 ---
